@@ -1,1 +1,69 @@
 # odin-recipes
+
+This is a webpage for recipes, part of the curriculum for TOP.
+This webpage is for me to get more comfortable writing html and practice what I've learn up to this point.
+Feel free to critic and leave some comments. 
+
+Thank you for reading.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you see this, email me a cat picture <oscarfdez05@gmail.com>
